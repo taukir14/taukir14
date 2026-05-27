@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Taukir Tajammul</h1>
 
 <h3 align="center">
-Computer Science & Engineering Student at BAUST • UI/UX Designer • Aspiring ML Enthusiast
+Computer Science & Engineering Student at Bangladesh Army University of Science and Technology(BAUST) • UI/UX Designer • Aspiring ML Enthusiast
 </h3>
 
 <p align="center">
-Passionate about building useful software, crafting clean user experiences, and exploring AI & Machine Learning.
+Passionate about building useful software, crafting clean user experiences,Chip Design and exploring AI & Machine Learning.
 </p>
 
 <p align="center">
